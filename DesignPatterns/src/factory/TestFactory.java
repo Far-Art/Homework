@@ -14,13 +14,6 @@ public class TestFactory {
 		Smartphone smartphone2 = factory.getSmartphone("samsung");
 		smartphone2.browse();
 		smartphone2.os();
-
-		System.out.println();
-
-		System.out.println("*** smartphone with args[0] param ***");
-		Smartphone smartphone3 = factory.getSmartphone(args[0]);
-		smartphone3.browse();
-		smartphone3.os();
 	}
 
 }
