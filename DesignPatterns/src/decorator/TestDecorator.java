@@ -1,5 +1,12 @@
 package decorator;
 
+import decorator.classes.Hardware;
+import decorator.classes.Motherboard;
+import decorator.classes.Proccessor;
+import decorator.classes.Pwm;
+import decorator.classes.SoundCard;
+import decorator.classes.VideoCard;
+
 public class TestDecorator {
 
 	public static void main(String[] args) {

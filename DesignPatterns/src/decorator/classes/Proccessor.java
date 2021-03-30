@@ -1,4 +1,4 @@
-package decorator;
+package decorator.classes;
 
 public class Proccessor extends Hardware {
 
